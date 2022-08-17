@@ -1,2 +1,2 @@
 # Site Goruntusu
-![Img](/Desktop/1.png)
+![Img](/images/1.png)
